@@ -78,6 +78,7 @@ footer{
     }
     .flip-card{
         width: 80%;
+        height: 200px;
     }
     .textoFooter img{
         width: 3%;
@@ -95,6 +96,7 @@ footer{
     .flip-card {
         margin-top: 2%;
         width: 100%;
+        height: 400px;
     }
     .textoFooter img{
         width: 10%;
@@ -102,7 +104,6 @@ footer{
     }
 }
 .flip-card {
-    height: 200px;
     perspective: 1000px;
 }
 
